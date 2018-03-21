@@ -11,22 +11,30 @@ width: 50%;
 
 h1 {
 	font-size: 100px;
-  font-family: 'Dawning of a New Day', cursive;
+
+  font-family: 'Nixie One', cursive;
   margin: -0%;
 	color: black;
 
 }
 
+a
+{
+  color: black;
+}
+
 h2 { 
 	
-	font-size: 35px;
-  font-family: 'Dawning of a New Day', cursive;
+	font-size: 20px;
+  font-family: 'Nixie One', cursive;
+
   font-weight: 50px;
-	padding: 0px;
+	padding: 5px;
 	padding-left: 200px;
 	padding-right: 200px;
 	color: black;
   text-align: center;
+
 
 	}
 
@@ -92,12 +100,13 @@ body {background: #FFFFFF;
 }
 
 #menu ul li {
-  font-family: 'Dawning of a New Day', cursive;
-  font-size: 50px;
+
+  font-family: 'Nixie One', cursive;
+  font-size: 20px;
 	line-height: 50px;
 	color: saddlebrown; 
 	display: inline;
-	margin: 0px 20px;
+	margin: 0px 10px;
 	font-style: normal;
 
 }
@@ -140,7 +149,8 @@ body {background: #FFFFFF;
     padding: 0px;
     display:block;
     font-weight: bold;
-    font-family: 'Dawning of a New Day', cursive;
+font-family: 'Nixie One', cursive;
+
     font-size: 20px;
     color: seagreen;
 

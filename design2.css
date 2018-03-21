@@ -4,7 +4,8 @@ body {
 
 h1 {
 	font-size: 50px;
-	font-family: 'Dawning of a New Day', cursive;
+font-family: 'Nixie One', cursive;
+
 	padding: 10px;
 	color: darksalmon;
 
@@ -13,7 +14,8 @@ h1 {
 h2 { 
 	
 	font-size: 20px;
-  	font-family: 'Dawning of a New Day', cursive;
+
+font-family: 'Nixie One', cursive;
 	font-weight: 100px;
 	padding: 20px;
 	padding-left: 200px;
@@ -58,12 +60,13 @@ body {background: #FFFFFF;
 }
 
 #menu ul li {
-  	font-family: 'Dawning of a New Day', cursive;
-	font-size:20px;
+font-family: 'Nixie One', cursive;
+
+	font-size: 40px;
 	line-height: 50px;
 	color: saddlebrown; 
 	display: inline;
-	margin: 0px 20px;
+	margin: 0px 10px;
 	font-style: normal;
 
 }

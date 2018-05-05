@@ -1,5 +1,6 @@
-body {
+html body {
 	background: linen;
+	font-family: 'Work Sans', sans-serif;
 }
 
 
@@ -12,7 +13,7 @@ body {
 h1 {
 	font-size: 100px;
 
- 	font-family: 'Nixie One', cursive;
+ 	font-family: 'Work Sans', sans-serif;
  	margin: -0%;
 	color: darkolivegreen;
 
@@ -38,7 +39,7 @@ a
 h2 { 
 	
 	font-size: 20px;
-	font-family: 'Nixie One', cursive;
+	font-family: 'Work Sans', sans-serif;
 
  	font-weight: 50px;
 	padding: 5px;
@@ -53,7 +54,7 @@ h2 {
 h3
 {
 	font-size: 50px;
-	font-family: 'Nixie One', cursive;
+	font-family: 'Work Sans', sans-serif;
  	margin-top: 10%;
 	color: black;
 	margin-bottom: 3%;
@@ -146,7 +147,7 @@ body {background: #FFFFFF;
 
 #menu ul li {
 
-    font-family: 'Nixie One', cursive;
+    font-family: 'Work Sans', sans-serif;
     font-size: 20px;
 	line-height: 50px;
 	color: saddlebrown; 

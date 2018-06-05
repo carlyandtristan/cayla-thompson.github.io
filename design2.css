@@ -3,6 +3,13 @@ html body {
 	font-family: 'Work Sans', sans-serif;
 }
 
+
+.image1
+{
+width:30%;
+margin-bottom: -4%;
+
+}
 .image6
 {
 width: 40%;
@@ -321,26 +328,20 @@ body {background: #FFFFFF;
     top: 0; /* Position the navbar at the top of the page */
     width: 100%; /* Full width */
     margin-left: -.5%;
-
-
-}
-
-a
-{
-font: white;
 }
 
 /* Links inside the navbar */
 .navbar a {
     float: right;
-    margin-top: 5%;
+    margin-top: 3.5%;
     color: #2b2b2b;
     text-decoration: none;
     display: block;
-    margin-right: 22%;
+    margin-right: 15%;
     margin-bottom: 1%;
 
 }
+
 
 /* Change background on mouse-over */
 .navbar a:hover {
